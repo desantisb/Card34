@@ -1,4 +1,4 @@
-# Card36
+# Card34
 A compact split keyboard with 34 keys and bluetooth connection
 
 Initial design is done starting from Sweep2.1 half design.
